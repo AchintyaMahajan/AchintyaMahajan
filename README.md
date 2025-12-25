@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Achintya Mahajan</h1>
 <h3 align="center">Enthusiastic Computer Science student with experience in full-stack web development. Skilled in MERN, and cloud technologies.</h3>
 
-- 🔭 I’m currently working on **Buy Me a Coffee Clone**
+- 🔭 I’m currently working on **Email SaaS Product**
 
 - 🌱 I’m currently learning **Machine Learning**
 
