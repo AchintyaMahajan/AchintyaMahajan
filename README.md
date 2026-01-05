@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AVM08122005](https://github.com/AVM08122005)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/AchintyaMahajan)
 
 - 💬 Ask me about **Node, Express, MongoDB, React**
 
